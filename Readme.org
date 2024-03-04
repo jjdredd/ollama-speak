@@ -1,0 +1,11 @@
+* ollama-speak
+ This project provides tools for talking with an LLM
+ using ollama, openai whisper and MeloTTS.
+** Dependencies
+*** [[https://github.com/myshell-ai/MeloTTS][MeloTTS]]
+*** [[https://github.com/openai/whisper][whisper]]
+*** [[https://github.com/ollama/ollama][ollama]]
+*** [[https://github.com/ollama/ollama-python][ollama-python]]
+** This also requires python 3.9 (MeloTTS)
+* TODO
+** Detect an end of speech looking for a three second pause.
