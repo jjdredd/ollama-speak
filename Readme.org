@@ -9,3 +9,6 @@
 ** This also requires python 3.9 (MeloTTS)
 * TODO
 ** Detect an end of speech looking for a three second pause.
+** Interrupt ollama with a sound/code word.
+** Infinite memory with langchain RAG.
+** Ask the user their name/greet at the beginning of the session.
